@@ -12,4 +12,5 @@ Components:
 ![Visual Schematic](images/visual.png)
 
 ## Gameplay
+Youtube Video:
 [![Video](images/videosnap.png)](https://youtu.be/-IZXlFAJVbE)
