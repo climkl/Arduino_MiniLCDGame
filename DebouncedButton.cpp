@@ -8,7 +8,7 @@ namespace Climduino
   
   }
 
-  DebouncedButton::setup(uint8_t pin)
+  void DebouncedButton::setup(uint8_t pin)
   {
     _pin = pin;
     pinMode(pin, INPUT_PULLUP);

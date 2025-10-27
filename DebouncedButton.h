@@ -16,7 +16,7 @@ namespace Climduino
 
   public:
     DebouncedButton();
-    setup(uint8_t pin);
+    void setup(uint8_t pin);
 
     //also returns change in Btn state, as a workaround to event (for simple cases where caller is updating and retrieving the state)
     BtnEvent update();
